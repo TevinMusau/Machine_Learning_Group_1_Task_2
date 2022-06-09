@@ -22,7 +22,7 @@ With provision of the Housing Dataset, the following operations were performed:
 
 The tasks were divided into modules, handled by each of the group members as desribed below and portrayed on a shared Notebook:
 
-Question 1 and 2: Faith Sanne
-Question 3 and 4: Dennis Koech
-Question 5 and 6: Tevin Musau
-Question 7 and 8: Kenneth Temba
+1. Question 1 and 2: Faith Sanne
+2. Question 3 and 4: Dennis Koech
+3. Question 5 and 6: Tevin Musau
+4. Question 7 and 8: Kenneth Temba
